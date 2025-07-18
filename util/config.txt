@@ -1,5 +1,5 @@
-config: abc
+config1: abc
 
-config: 123
+config2: 123
 
-config: xyz
+config3: xyz
